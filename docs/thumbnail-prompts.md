@@ -305,3 +305,11 @@ deployment: gpt-image-2
 endpoint: https://jong-image-westus3.openai.azure.com
 apiVersion: 2025-04-01-preview
 SHA-256: 8b9f53f5047451c6d08df7282ba6cc605aecf314711667cef918dd2966a3a094
+
+## code-review (7d6140526ca4)
+
+Prompt: "A magnifying glass over a diff with a green check on a warm neutral background"
+
+Provider: placeholder
+model: deterministic-local-v1
+SHA-256: 7d6140526ca40be2d5d16947ef02e1169fd1db733f22766d3e2e2f7e8903861a
